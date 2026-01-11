@@ -1,0 +1,14 @@
+@TaskManagementAPI_HostAddress = http://localhost:8080
+
+GET {{TaskManagementAPI_HostAddress}}/tasks/
+Accept: application/json
+
+POST {{TaskManagementAPI_HostAddress}}/tasks/
+Accept: application/json
+
+PUT {{TaskManagementAPI_HostAddress}}/tasks/
+Accept: application/json
+
+DELETE {{TaskManagementAPI_HostAddress}}/tasks/
+Accept: application/json
+
