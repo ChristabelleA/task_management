@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\chris\\Desktop\\icon coding\\task_management_c-\\TaskManagementAPI\\TaskManagementAPI.csproj": {}
+    "C:\\Users\\chris\\Desktop\\icon coding\\task_management\\TaskManagementAPI\\TaskManagementAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\chris\\Desktop\\icon coding\\task_management_c-\\TaskManagementAPI\\TaskManagementAPI.csproj": {
+    "C:\\Users\\chris\\Desktop\\icon coding\\task_management\\TaskManagementAPI\\TaskManagementAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\chris\\Desktop\\icon coding\\task_management_c-\\TaskManagementAPI\\TaskManagementAPI.csproj",
+        "projectUniqueName": "C:\\Users\\chris\\Desktop\\icon coding\\task_management\\TaskManagementAPI\\TaskManagementAPI.csproj",
         "projectName": "TaskManagementAPI",
-        "projectPath": "C:\\Users\\chris\\Desktop\\icon coding\\task_management_c-\\TaskManagementAPI\\TaskManagementAPI.csproj",
+        "projectPath": "C:\\Users\\chris\\Desktop\\icon coding\\task_management\\TaskManagementAPI\\TaskManagementAPI.csproj",
         "packagesPath": "C:\\Users\\chris\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\chris\\Desktop\\icon coding\\task_management_c-\\TaskManagementAPI\\obj\\",
+        "outputPath": "C:\\Users\\chris\\Desktop\\icon coding\\task_management\\TaskManagementAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

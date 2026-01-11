@@ -5,7 +5,7 @@ Prerequisites include having .NET SDK ready for API development with Entity Fram
 
 Navigate to the backend directory and restore packages:
 ```
-cd task_management_c-\TaskManagementAPI
+cd TaskManagementAPI
 dotnet restore
 ```
 
@@ -28,7 +28,7 @@ Install Node.js 18+ LTS version. This ensures compatibility with React scripts a
 
 Navigate to the frontend directory and install dependencies:
 ```
-cd task_management_app
+cd TaskManagementFrontend
 npm install
 ```
 
